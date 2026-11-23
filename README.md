@@ -69,15 +69,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bynuray/bynuray/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://raw.githubusercontent.com/bynuray/bynuray/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/bynuray/BaxisliNuray/main/profile-summary-card-output/dracula/1-repos-language-distribution.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/bynuray/BaxisliNuray/main/profile-summary-card-output/dracula/3-stats.svg" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=bynuray&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bynuray/bynuray/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bynuray/bynuray/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bynuray/bynuray/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bynuray/BaxisliNuray/output/pacman-contribution-graph.svg" />
+</p>
