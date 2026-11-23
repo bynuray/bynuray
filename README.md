@@ -1,15 +1,19 @@
 <h1 align="center">Hello 👋, I'm Nuray Bakhishli</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="220" alt="coding gif" />
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="220" alt="coding gif" /></td>
+<td width="50%">
+<ul>
+<li>🌱 I’m currently learning <b>C++, Three.js and Unity Game Engine</b></li>
+<li>✨ Ask me about <b>C++, HTML/CSS/SCSS, jQuery, Bootstrap, JavaScript, .NET Core, React, ExpressJS, MongoDB</b></li>
+<li>⚡ Fun fact: <b>I love Japanese culture</b></li>
+</ul>
+</td>
+</tr>
+</table>
 
-###
-
-- 🌱 I’m currently learning **C++, Three.js and Unity Game Engine**
-- ✨ Ask me about **C++, HTML/CSS/SCSS, jQuery, Bootstrap, JavaScript, .NET Core, React, ExpressJS, MongoDB**
-- ⚡ Fun fact: **I love Japanese culture**
 
 ###
 
