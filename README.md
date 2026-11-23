@@ -68,13 +68,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bynuray/BaxisliNuray/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="150" alt="languages graph" />
-  <img src="https://raw.githubusercontent.com/bynuray/BaxisliNuray/main/profile-summary-card-output/dracula/3-stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/bynuray/bynuray/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/bynuray/bynuray/main/profile-summary-card-output/dracula/3-stats.svg" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=bynuray&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bynuray/BaxisliNuray/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bynuray/bynuray/output/pacman-contribution-graph.svg" />
 </p>
