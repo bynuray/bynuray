@@ -77,5 +77,5 @@
 ###
 
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bynuray/bynuray/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bynuray/bynuray/output/pacman-contribution-graph-dark.svg" />
 </p>
