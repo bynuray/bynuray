@@ -8,8 +8,7 @@
 ###
 
 - 🌱 I’m currently learning **C++, Three.js and Unity Game Engine**
-- ✨ Ask me about **JavaScript, HTML/CSS/SCSS, jQuery, Bootstrap, C++, .NET Core, React, ExpressJS, MongoDB**
-- 📫 How to reach me: **bakhishlinuray@gmail.com**
+- ✨ Ask me about **C++, HTML/CSS/SCSS, jQuery, Bootstrap, JavaScript, .NET Core, React, ExpressJS, MongoDB**
 - ⚡ Fun fact: **I love Japanese culture**
 
 ###
